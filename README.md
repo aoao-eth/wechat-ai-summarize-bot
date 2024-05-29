@@ -178,3 +178,5 @@ https://portal.azure.com/#view/Microsoft_Azure_ProjectOxford/CognitiveServicesHu
 - [智囊 AI] https://zhinang.ai/chat
 - [Dify.ai] https://dify.ai
 - [PadLocal] http://pad-local.com
+
+![Alt](https://repobeats.axiom.co/api/embed/09586a669359cc880471d7928d2512b6e262f76f.svg "Repobeats analytics image")
